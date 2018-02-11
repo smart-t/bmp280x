@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Sun Feb 11 14:55:53 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : bmp280x
+Top-level Entity Name : bmp280x
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 21
+Total pins : 34
+Total virtual pins : 0
+Total block memory bits : 0
+Total DSP Blocks : 0
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0
